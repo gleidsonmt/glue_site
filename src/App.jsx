@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <p className="read-the-docs">Helloo to Glue</p>
+      <p className="text-red-500">Helloo to Glue</p>
     </>
   );
 }
